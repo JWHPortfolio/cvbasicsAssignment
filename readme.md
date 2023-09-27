@@ -16,7 +16,7 @@
    
 ## Steps for Part 2 - Object Detection
 1.  Generate a web interface python script that ingests a POST command of a picture Use [postman](https://www.postman.com/) to generate the post with picture of your choice.
-1.  Returns the items detected and the assocated confidence
+1.  Returns the names of the items detected and the assocated confidence (you do not have to return the marked up image)
 1.  Add to your python class above to offer this capability
 1.  Test web interface locally
 1.  Create a Dockerfile and build the image
