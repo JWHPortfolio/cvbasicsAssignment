@@ -1,3 +1,5 @@
+# Assignment 5 - Graphical Degrading and Object Detection
+
 ## Steps for Part 1 - Graphical Degrading
 1. Download zip code from assignment repository
 1. Download the yolov3.weights from the readme in the github repository (This file is too big for github versioning)
