@@ -2,7 +2,7 @@
 
 ## Steps for Part 1 - Graphical Degrading
 1. Download zip code from assignment repository
-1. Download the yolov3.weights from the readme in the github repository (This file is too big for github versioning)
+1. Download the [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) from the readme in the github repository (This file is too big for github versioning)
 1. Edit/Create an git "exclude" file in the main portfolio directory ".git/info".  Add "yolov3.weights" on a line by itself.  This avoids a git push failure due to the size of the file.
 1. Unzip into your local portfolio directory for Assignment5
 1. Fill in the missing code in this notebook  (You will need the working code examples to do the next step)
