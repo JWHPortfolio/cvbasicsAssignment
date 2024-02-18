@@ -11,8 +11,8 @@
    - Create a loop that alters individual changes of the items below to determine names of identified objects and their confidence (down to when the object detetion is lost).  Remember to reset the image through each pass as they are not iterative.
      - size
      - rotation
-     - noise (of your choice)
-   - Graph the results
+     - noise
+   - Note the results with a degradtion point and a Graph showing the confidence results
    
 ## Steps for Part 2 - Object Detection
 1.  Generate a web interface python script that ingests a POST command of a picture Use [postman](https://www.postman.com/) to generate the post with picture of your choice.
