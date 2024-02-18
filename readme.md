@@ -1,4 +1,4 @@
-# Assignment 6 - Graphical Degrading and Object Detection
+# Graphical Degrading and Object Detection Assignment
 
 ## Steps for Part 1 - Graphical Degrading
 1. Download zip code from assignment repository
